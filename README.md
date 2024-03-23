@@ -6,7 +6,7 @@
 uvicorn main:app --reload
 ```
 
-## Estos proyectos usarán la documentación oficial de FastAPI
+## Estos proyectos usan FastAPI, enlaces a la documentación oficial:
 
 **Documentation**: <a href="https://fastapi.tiangolo.com" target="_blank">https://fastapi.tiangolo.com</a>
 
