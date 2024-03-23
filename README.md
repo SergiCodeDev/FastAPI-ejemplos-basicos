@@ -1,6 +1,6 @@
 # fastapi-ejemplos-basicos
 
-## Iniciar un servidor
+## Iniciar servidor
 
 ```cmd
 uvicorn main:app --reload
